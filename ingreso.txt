@@ -1,0 +1,9 @@
+var lol="admin";
+var a1=ingresa.getElementById(adminU);
+var a2=ingresa.getElementById(adminC);
+function add(){
+if(lol==a1 && lol==a2){
+
+}
+
+}

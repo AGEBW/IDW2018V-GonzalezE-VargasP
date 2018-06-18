@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<h1>Examen Diagnostico Infra WEB</h1>
+</head>
+<body align="center">
+<div>
+user:<input type="text" name="adminU" ><br>
+</div>
+<div>
+pass:<input type="text" name="adminC" >
+</div>
+<button href="ingreso">ingresar</button>
+<div>
+</body>
+
+
+</html>
