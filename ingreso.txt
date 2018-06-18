@@ -1,9 +1,13 @@
-var lol="admin";
-var a1=ingresa.getElementById(adminU);
-var a2=ingresa.getElementById(adminC);
-function add(){
-if(lol==a1 && lol==a2){
 
-}
+//se intento implementar dentro del html pero no funciono
+//<script>
+//var lol="admin";
+//var a1=ingresa.getElementById(adminU);
+//var a2=ingresa.getElementById(adminC);
+//function add(){
+//if(lol==a1 && lol==a2){
+// window.location="img.html"; 
+//}
 
-}
+//}
+//</script>
